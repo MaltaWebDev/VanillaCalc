@@ -13,3 +13,4 @@
 ## Future sprints
 - Add a color theme switcher
 - Add animations on button press
+- Refactor into TypeScript
