@@ -73,3 +73,23 @@ body {
   color: white;
   font-size: 2.5rem;
 }
+
+/* -------ATTRIBUTION------- */
+.attribution {
+  display: grid;
+  grid-column: 1/-1;
+  color: hsl(217deg, 12%, 63%);
+  margin-top: 50px;
+  text-align: center;
+}
+.attribution a {
+  text-decoration: none;
+}
+.attribution a:link,
+.attribution a:visited {
+  color: #d4a418;
+}
+.attribution a:hover,
+.attribution a:active {
+  color: hsl(0deg, 0%, 100%);
+}
