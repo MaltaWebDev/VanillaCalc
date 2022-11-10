@@ -14,7 +14,7 @@
 
 ### Update 10/11/22
 
-- all added. favicon not showing
+- all added
 
 ## Future sprints
 
